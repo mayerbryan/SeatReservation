@@ -1,0 +1,15 @@
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\bin\Debug\net6.0\SeatReservation.exe
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\bin\Debug\net6.0\SeatReservation.deps.json
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\bin\Debug\net6.0\SeatReservation.runtimeconfig.json
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\bin\Debug\net6.0\SeatReservation.dll
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\bin\Debug\net6.0\SeatReservation.pdb
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.csproj.AssemblyReference.cache
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.AssemblyInfoInputs.cache
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.AssemblyInfo.cs
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.csproj.CoreCompileInputs.cache
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.dll
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\refint\SeatReservation.dll
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.pdb
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\SeatReservation.genruntimeconfig.cache
+C:\Users\Mayer\Documents\Dev\Projects\SeatReservation\obj\Debug\net6.0\ref\SeatReservation.dll
