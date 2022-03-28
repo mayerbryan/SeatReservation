@@ -12,7 +12,7 @@ namespace SeatReservation
             Console.WriteLine("how many seats do you want to reserve?");
             int seatsAmount = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i <= seatsAmount; i++)
+            for (int i = 1; i <= seatsAmount; i++)
             {
                 room.ReserveSeat();
             }
@@ -40,7 +40,7 @@ namespace SeatReservation
         public void ReserveSeat()
         {
             seatsInUse++;
-            if (seatsInUse >= Seats)
+            if (seatsInUse > Seats)
             {
                 OnRoomSoldOut(EventArgs.Empty);
             }
